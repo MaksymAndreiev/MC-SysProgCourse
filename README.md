@@ -17,6 +17,9 @@ sections:
 - Eight labs to explore the main features, devices, and characteristics of the board:
 PWM, ADC, USART, SPI, DMA, timers, etc.
 
+![image](https://github.com/MaksymAndreiev/MC-SysProgCourse/assets/29687267/837001e2-1adc-4963-bf8c-91660bd65cbc)
+
+
 ## System programming
 
 In this part of the course, you learned how to create bash scripts, the basics of working with Git, and the basics of programming for Linux. 
@@ -41,6 +44,8 @@ This part of the course is a copy of my fork: https://github.com/MaksymAndreiev/
 - загальна інформація, яка необхідна для початку роботи з налагоджувальною платою STM32F4Discovery;
 - вісім лабораторних робіт для вивчення основних можливостей, пристроїв і характеристик плати:
 ШІМ, АЦП, USART, SPI, DMA, таймери та інше.
+
+![image](https://github.com/MaksymAndreiev/MC-SysProgCourse/assets/29687267/837001e2-1adc-4963-bf8c-91660bd65cbc)
 
 ## Системне програмування
 
